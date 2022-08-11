@@ -6,7 +6,7 @@
 <h3 align="center">Electrical Engineer|Web Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/Khouloud-Daher" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384088.png" height="40" width="40"></a>
-  <a href = "mailto: khoulouddaher0@gmail.com"alt="Gmail"><img src="https://cdn-icons.flaticon.com/png/128/542/premium/542689.png?token=exp=1658484805~hmac=6d5f8082d04aeda6338a0ae31e6cdff9" height="40" width="40" /></a>
+  <a href = "mailto: khoulouddaher0@gmail.com"alt="Gmail"><img src="https://cdn-icons-png.flaticon.com/128/561/561127.png" height="40" width="40" /></a>
   <a href="https://github.com/KhouloudDaher/" alt="GitHub"><img src="https://cdn-icons-png.flaticon.com/128/25/25657.png" height="40" width="40"></a>
 </p>
 </p>
