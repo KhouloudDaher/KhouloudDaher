@@ -13,7 +13,7 @@
 <p align="center">
   <em>
     This is ME, Khouloud Daher, a <b>third year</b> undergraduate from <a href="http://www.ulfg.ul.edu.lb/"> <b>Lebanese University Faculity of Engineering</b>, Tripoli</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and looking forward to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">in the devolpment domain. 
    
@@ -34,8 +34,7 @@
 ✔ I’m currently Developing **QUARTO_GAME** using C#<br>
 ✔ I’m currently learning **Python**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ Ask me about anything,I am happy to help,only if the ball is in my court!😉<br>
-✔ Fun fact : **I am Humorous* 🤪 🥰*<br><br><br><br>
+
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
