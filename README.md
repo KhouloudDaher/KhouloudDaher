@@ -23,7 +23,7 @@
   <img src="https://profile-counter.glitch.me/KhouloudDaher/count.svg" />
 </p>
 <hr>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*Languages & Tools I Know...*
 <p align="left">
   
 <p align="left">
@@ -39,8 +39,4 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoulouddaher&show_icons=true&theme=dark&title_color=861289&text_color=db46db&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="khoulouddaher" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoulouddaher&show_icons=true&title_color=800080&text_color=ff00ff&hide_border=true&locale=en" alt="khoulouddaher" /></p>
-
+  
