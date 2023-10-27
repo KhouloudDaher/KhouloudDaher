@@ -10,9 +10,7 @@
 <p align="center">
   <em>
     This is ME, Khouloud Daher, a <b>fifth year</b> undergraduate from <a href="http://www.ulfg.ul.edu.lb/"> <b>Lebanese University Faculty of Engineering</b>, Tripoli</a>. <br>
-    A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and looking forward to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">in the devolpment domain. 
+    
    
   </em> 
   <br>
