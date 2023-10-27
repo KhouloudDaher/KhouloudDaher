@@ -23,7 +23,7 @@
   <img src="https://profile-counter.glitch.me/KhouloudDaher/count.svg" />
 </p>
 <hr>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*Languages & Tools I Know...*
+<p>*Languages & Tools I Know...*</p>
 <p align="left">
   
 <p align="left">
