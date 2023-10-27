@@ -10,8 +10,8 @@
 <p align="center">
   <em>
     This is ME, Khouloud Daher, a <b>fifth year</b> undergraduate from <a href="http://www.ulfg.ul.edu.lb/"> <b>Lebanese University Faculty of Engineering</b>, Tripoli</a>. <br>
-    
-   
+     and a Master 2 IOT & Smart System-Student 
+  
   </em> 
   <br>
  
