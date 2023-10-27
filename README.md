@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX7U37puyLGGMsClMOZkUFqgmwWh_wSeVcDg&usqp=CAU" height="200"/>
-</p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm KHouloud Daher</h1>
-<h3 align="center">Electrical and electronics Engineer|Web Developer</h3>
+<h3 align="center">Computer and Telecommunications Engineer|Web Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/Khouloud-Daher" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384088.png" height="40" width="40"></a>
   <a href = "mailto: khoulouddaher0@gmail.com"alt="Gmail"><img src="https://cdn-icons-png.flaticon.com/128/561/561127.png" height="40" width="40" /></a>
@@ -12,31 +9,20 @@
 </p>
 <p align="center">
   <em>
-    This is ME, Khouloud Daher, a <b>fourth year</b> undergraduate from <a href="http://www.ulfg.ul.edu.lb/"> <b>Lebanese University Faculty of Engineering</b>, Tripoli</a>. <br>
+    This is ME, Khouloud Daher, a <b>fifth year</b> undergraduate from <a href="http://www.ulfg.ul.edu.lb/"> <b>Lebanese University Faculty of Engineering</b>, Tripoli</a>. <br>
     A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and looking forward to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">in the devolpment domain. 
    
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+ 
 </p>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/KhouloudDaher/count.svg" />
 </p>
 <hr>
-
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
-
-✔ Pronouns: ***She/Her*** or ***Developer***😉 <br>
-✔ I’m currently Developing **QUARTO_GAME** using C#<br>
-✔ I’m currently learning **Python**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-
- 
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
